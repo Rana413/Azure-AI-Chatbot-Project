@@ -25,4 +25,4 @@ This project was adapted from the idea of a traditional echo bot and extended by
 3. Run `python simple_chatbot.py`
 
 ## AI Disclosure
-ChatGPT was used to help explain the assignment steps, improve report wording, and guide project organization.
+AI was used to help explain the assignment steps, improve report wording, and guide project organization.
